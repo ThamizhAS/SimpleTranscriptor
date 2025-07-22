@@ -1,0 +1,6 @@
+streamlit
+fastapi
+uvicorn
+openai-whisper
+torch
+ffmpeg-python
