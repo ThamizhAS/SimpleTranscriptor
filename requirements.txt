@@ -1,8 +1,0 @@
-streamlit
-fastapi
-uvicorn
-whisper
-torch
-ffmpeg-python
-python-multipart
-requests
