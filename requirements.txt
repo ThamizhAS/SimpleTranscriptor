@@ -1,6 +1,8 @@
 streamlit
 fastapi
 uvicorn
-openai-whisper
+whisper
 torch
 ffmpeg-python
+python-multipart
+requests
